@@ -1,4 +1,3 @@
-layout_spectrum: 0.2625475940294564
 typography_spectrum: 0.908891674829647
 color:
   brandStrength: 0.354796931380406
@@ -11,5 +10,7 @@ color:
     - '#0F1417'
     - '#D8DCDF'
     - '#D8AD9C'
+layout_spectrum: 0.2625475940294564
 name: matthewnordloh
 title: Another Beautiful Day!
+description: 'Good Things Always Work Out...If You Let Them:)'
